@@ -1,5 +1,5 @@
 # Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
+# Ex05-Linux IPC-Semaphores
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
@@ -109,8 +109,12 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 $ ./sem.o 
+
 ![output](./output5_1.png)
+
 $ ipcs
+
 ![output](./output5_2.png)
+
 # RESULT:
 The program is executed successfully.
